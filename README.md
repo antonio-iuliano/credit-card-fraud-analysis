@@ -11,7 +11,7 @@ The project focuses on handling **class imbalance** and optimizing the **decisio
 Kaggle dataset:  
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud  
 
-Download the dataset and place it in: data/creditcard.csv
+Download the dataset and place it in: (`data/creditcard.csv`)
 
 
 ---
@@ -67,5 +67,5 @@ Threshold tuning significantly improved this trade-off, making the model more us
 
 ---
 
-## 👤 Author
+## Author
 Antonio Iuliano
